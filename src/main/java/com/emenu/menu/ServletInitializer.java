@@ -1,4 +1,4 @@
-package com.service;
+package com.emenu.menu;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
